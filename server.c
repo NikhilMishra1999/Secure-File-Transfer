@@ -94,7 +94,6 @@ int main()
         printf("File copied successfully.\n");
         printf("\nFile Named %s is received\n", net_buf);
         if (fp == NULL)
-            printf("\nFile open failed!\n");
         else
             printf("\n");
 
