@@ -1,1 +1,1 @@
-# Secure-File-Transfer <img src="https://github.com/Shraddhasaini/Whereisevery1/blob/master/assets/snlogo.png" height="200" align="right"> 
+# Secure-File-Transfer <img src="https://github.com/NikhilMishra1999/Secure-File-Transfer/blob/master/AES/SS/secure.png" height="200" align="right"> 
