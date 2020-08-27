@@ -41,7 +41,7 @@ We developed a channel to transfer files securely, using key based encryption me
 
  ----------------
 ##  Developers:
-:e-mail: ashishkumarpandey2000@gmail.com
-:e-mail: Surabhiraj.rs@gmail.com
-:e-mail: thapashanu56@gmail.com
-:e-mail: nikhil.1999stars@gmail.com
+:octocat: [Ashish Pandey](https://github.com/ASHISH-KUMAR-PANDEY)
+:octocat: [Mridul Thapa](https://github.com/samridul)
+:octocat: [Nikhil Mishra](https://github.com/NikhilMishra1999)
+:octocat: [Surabhi Kumari](https://github.com/surabhiraj98)
