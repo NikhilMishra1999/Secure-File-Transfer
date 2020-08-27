@@ -11,12 +11,17 @@ We developed a channel to transfer files securely, using key based encryption me
 > - Socket Programming
 
  ----------------
-#### AES ENCRYPTION
+### AES ENCRYPTION
 <img src="https://raw.githubusercontent.com/NikhilMishra1999/Secure-File-Transfer/master/AES/final%20SS/Aes1.png" align="center">
 <img src="https://raw.githubusercontent.com/NikhilMishra1999/Secure-File-Transfer/master/AES/final%20SS/Aes2.png" align="center">
 <img src="https://raw.githubusercontent.com/NikhilMishra1999/Secure-File-Transfer/master/AES/final%20SS/Aes3.png" align="center">
 
-#### RSA ENCRYPTION
+### RSA ENCRYPTION
+> RSA algorithm is a public key encryption technique and is considered as the most secure way of encryption. It was invented by Rivest, Shamir and Adleman in year 1978 and hence name RSA algorithm.
+>The RSA algorithm holds the following features −
+-RSA algorithm is a popular exponentiation in a finite field over integers including prime numbers.
+-The integers used by this method are sufficiently large making it difficult to solve.
+-There are two sets of keys in this algorithm: private key and public key.
 <img src="https://raw.githubusercontent.com/NikhilMishra1999/Secure-File-Transfer/master/RSA/SS/client1.png" align="center">
 <img src="https://raw.githubusercontent.com/NikhilMishra1999/Secure-File-Transfer/master/RSA/SS/client2.png" align="center">
 <img src="https://raw.githubusercontent.com/NikhilMishra1999/Secure-File-Transfer/master/RSA/SS/server1.png" align="center">
