@@ -39,7 +39,8 @@ We developed a channel to transfer files securely, using key based encryption me
 ## Limitations
 1. It can only encrypt text files.
 
-##  Developer's:
+ ----------------
+##  Developers:
 :e-mail: ashishkumarpandey2000@gmail.com
 :e-mail: Surabhiraj.rs@gmail.com
 :e-mail: thapashanu56@gmail.com
