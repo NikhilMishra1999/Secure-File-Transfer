@@ -11,6 +11,18 @@ We developed a channel to transfer files securely, using key based encryption me
 > - Socket Programming
 
  ----------------
+### RSA ENCRYPTION
+> RSA algorithm is a public key encryption technique and is considered as the most secure way of encryption. It was invented by Rivest, Shamir and Adleman in year 1978 and hence name RSA algorithm.
+> - The RSA algorithm holds the following features −
+> 1. RSA algorithm is a popular exponentiation in a finite field over integers including prime numbers.
+> 2. The integers used by this method are sufficiently large making it difficult to solve.
+> 3. There are two sets of keys in this algorithm: private key and public key.
+<img src="https://raw.githubusercontent.com/NikhilMishra1999/Secure-File-Transfer/master/RSA/SS/client1.png" align="center">
+<img src="https://raw.githubusercontent.com/NikhilMishra1999/Secure-File-Transfer/master/RSA/SS/client2.png" align="center">
+<img src="https://raw.githubusercontent.com/NikhilMishra1999/Secure-File-Transfer/master/RSA/SS/server1.png" align="center">
+<img src="https://raw.githubusercontent.com/NikhilMishra1999/Secure-File-Transfer/master/RSA/SS/server2.png" align="center">
+
+ ----------------
 ### AES ENCRYPTION
 > The more popular and widely adopted symmetric encryption algorithm likely to be encountered nowadays is the Advanced Encryption Standard (AES). It is found at least six time faster than triple DES. A replacement for DES was needed as its key size was too small. With increasing computing power, it was considered vulnerable against exhaustive key search attack. Triple DES was designed to overcome this drawback but it was found slow.
 > - The features of AES are as follows −
@@ -22,17 +34,6 @@ We developed a channel to transfer files securely, using key based encryption me
 <img src="https://raw.githubusercontent.com/NikhilMishra1999/Secure-File-Transfer/master/AES/final%20SS/Aes1.png" align="center">
 <img src="https://raw.githubusercontent.com/NikhilMishra1999/Secure-File-Transfer/master/AES/final%20SS/Aes2.png" align="center">
 <img src="https://raw.githubusercontent.com/NikhilMishra1999/Secure-File-Transfer/master/AES/final%20SS/Aes3.png" align="center">
-
-### RSA ENCRYPTION
-> RSA algorithm is a public key encryption technique and is considered as the most secure way of encryption. It was invented by Rivest, Shamir and Adleman in year 1978 and hence name RSA algorithm.
-> - The RSA algorithm holds the following features −
-> 1. RSA algorithm is a popular exponentiation in a finite field over integers including prime numbers.
-> 2. The integers used by this method are sufficiently large making it difficult to solve.
-> 3. There are two sets of keys in this algorithm: private key and public key.
-<img src="https://raw.githubusercontent.com/NikhilMishra1999/Secure-File-Transfer/master/RSA/SS/client1.png" align="center">
-<img src="https://raw.githubusercontent.com/NikhilMishra1999/Secure-File-Transfer/master/RSA/SS/client2.png" align="center">
-<img src="https://raw.githubusercontent.com/NikhilMishra1999/Secure-File-Transfer/master/RSA/SS/server1.png" align="center">
-<img src="https://raw.githubusercontent.com/NikhilMishra1999/Secure-File-Transfer/master/RSA/SS/server2.png" align="center">
  
  ----------------
 ## Limitations
