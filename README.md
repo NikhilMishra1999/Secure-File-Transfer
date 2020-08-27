@@ -17,10 +17,10 @@ We developed a channel to transfer files securely, using key based encryption me
 > 1. RSA algorithm is a popular exponentiation in a finite field over integers including prime numbers.
 > 2. The integers used by this method are sufficiently large making it difficult to solve.
 > 3. There are two sets of keys in this algorithm: private key and public key.
-<img src="https://raw.githubusercontent.com/NikhilMishra1999/Secure-File-Transfer/master/RSA/SS/client1.png" align="center">
-<img src="https://raw.githubusercontent.com/NikhilMishra1999/Secure-File-Transfer/master/RSA/SS/client2.png" align="center">
-<img src="https://raw.githubusercontent.com/NikhilMishra1999/Secure-File-Transfer/master/RSA/SS/server1.png" align="center">
-<img src="https://raw.githubusercontent.com/NikhilMishra1999/Secure-File-Transfer/master/RSA/SS/server2.png" align="center">
+<img src="https://raw.githubusercontent.com/NikhilMishra1999/Secure-File-Transfer/master/RSA/SS/client1.png" height="100" width="300" align="center">
+<img src="https://raw.githubusercontent.com/NikhilMishra1999/Secure-File-Transfer/master/RSA/SS/client2.png" height="100" width="300" align="center">
+<img src="https://raw.githubusercontent.com/NikhilMishra1999/Secure-File-Transfer/master/RSA/SS/server1.png" height="100" width="300" align="center">
+<img src="https://raw.githubusercontent.com/NikhilMishra1999/Secure-File-Transfer/master/RSA/SS/server2.png" height="100" width="300" align="center">
 
  ----------------
 ### AES ENCRYPTION
@@ -31,9 +31,9 @@ We developed a channel to transfer files securely, using key based encryption me
 > 3. Stronger and faster than Triple-DES
 > 4. Provide full specification and design details
 > 5. Software implementable in C and Java
-<img src="https://raw.githubusercontent.com/NikhilMishra1999/Secure-File-Transfer/master/AES/final%20SS/Aes1.png" align="center">
-<img src="https://raw.githubusercontent.com/NikhilMishra1999/Secure-File-Transfer/master/AES/final%20SS/Aes2.png" align="center">
-<img src="https://raw.githubusercontent.com/NikhilMishra1999/Secure-File-Transfer/master/AES/final%20SS/Aes3.png" align="center">
+<img src="https://raw.githubusercontent.com/NikhilMishra1999/Secure-File-Transfer/master/AES/final%20SS/Aes1.png" height="100" width="300" align="center">
+<img src="https://raw.githubusercontent.com/NikhilMishra1999/Secure-File-Transfer/master/AES/final%20SS/Aes2.png" height="100" width="300" align="center">
+<img src="https://raw.githubusercontent.com/NikhilMishra1999/Secure-File-Transfer/master/AES/final%20SS/Aes3.png" height="100" width="300" align="center">
  
  ----------------
 ## Limitations
