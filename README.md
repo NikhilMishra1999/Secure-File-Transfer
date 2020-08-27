@@ -5,3 +5,27 @@ We developed a channel to transfer files securely, using key based encryption me
 >	- To build a dependable and encrypted file transfer system between client and server
 >	- To compare the asymmetric and symmetric encryption algorithms.
 
+## Technology Used
+> - Linux Based OS (Ubuntu | Kali)
+> - C 
+> - Socket Programming
+
+## Assumptions
+
+## Limitations
+1. It can only encrypt text files.
+
+## Screenshots
+
+#### AES ENCRYPTION
+<img src="https://raw.githubusercontent.com/NikhilMishra1999/Secure-File-Transfer/master/AES/final%20SS/Aes1.png" align="center">
+<img src="https://raw.githubusercontent.com/NikhilMishra1999/Secure-File-Transfer/master/AES/final%20SS/Aes2.png" align="center">
+<img src="https://raw.githubusercontent.com/NikhilMishra1999/Secure-File-Transfer/master/AES/final%20SS/Aes3.png" align="center">
+
+#### RSA ENCRYPTION
+<img src="https://raw.githubusercontent.com/NikhilMishra1999/Secure-File-Transfer/master/RSA/SS/client1.png" align="center">
+<img src="https://raw.githubusercontent.com/NikhilMishra1999/Secure-File-Transfer/master/RSA/SS/client2.png" align="center">
+<img src="https://raw.githubusercontent.com/NikhilMishra1999/Secure-File-Transfer/master/RSA/SS/server1.png" align="center">
+<img src="https://raw.githubusercontent.com/NikhilMishra1999/Secure-File-Transfer/master/RSA/SS/server2.png" align="center">
+
+## Working
