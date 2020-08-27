@@ -18,7 +18,7 @@ We developed a channel to transfer files securely, using key based encryption me
 
 ### RSA ENCRYPTION
 > RSA algorithm is a public key encryption technique and is considered as the most secure way of encryption. It was invented by Rivest, Shamir and Adleman in year 1978 and hence name RSA algorithm.
->The RSA algorithm holds the following features −
+>>The RSA algorithm holds the following features −
 -RSA algorithm is a popular exponentiation in a finite field over integers including prime numbers.
 -The integers used by this method are sufficiently large making it difficult to solve.
 -There are two sets of keys in this algorithm: private key and public key.
